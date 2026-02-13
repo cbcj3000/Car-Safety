@@ -13,7 +13,7 @@ A comprehensive data analytics solution designed to visualize ten years of NYC c
 - **Incident HeatMap**: Precise Latitude/Longitude plotting to identify high-risk urban corridors.
 
 ### Statistical Demographic Modeling
-- **Bimodal Age Distribution**: Utilized Python-based probability weighting to simulate a realistic age "bell curve" (focusing on commuters aged 20–55) rather than flat random noise.
+- **Bimodal Age Distribution**: Utilized Python-based probability weighting to simulate a realistic age "bell curve".
 - **Outcome Analysis**: Dynamic "Outcome Ratio" tracking Injured vs. Killed vs. Property Damage Only (Others).
 - **Victim Role Identification**: Segmentation by Bicyclist, Occupant, and Pedestrian roles.
 
