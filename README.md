@@ -26,7 +26,6 @@ To explore this analytics solution locally:
 1. **Download the Dataset**: Download the `Car Safety.xlsx` file from this repository.
 2. **Download the Power BI File**: Download the `.pbix` file.
 3. **Connect the Data**: Open the Power BI file. If prompted for a data source, point the connection to the location of the downloaded Excel file on your machine.
-4. **Interact**: Use the slicers on the left (Year) and top (Definition, Borough) to filter the map and charts dynamically.
 
 > [!WARNING]
 > Data used is NOT REAL
