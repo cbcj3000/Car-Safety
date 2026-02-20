@@ -21,7 +21,7 @@ A comprehensive data analytics solution designed to visualize ten years of NYC c
 - **10-Year Trend Tracking**: Data spans from 2016 through 2026 to allow for predictive trend analysis and historical benchmarking.
 - **Custom Date Dimension**: Full calendar integration supporting Time Intelligence (YoY, Month-over-Month, Weekend vs. Weekday trends).
 
-## How to Use
+### How to Use
 To explore this analytics solution locally:
 1. **Download the Dataset**: Download the `Car Safety.xlsx` file from this repository.
 2. **Download the Power BI File**: Download the `.pbix` file.
